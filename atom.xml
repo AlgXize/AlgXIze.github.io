@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://algxize.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-26T12:52:43.570Z</updated>
+    <title>AlgXize</title>
+    <updated>2020-08-26T12:55:59.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://algxize.github.io"/>
     <link rel="self" href="https://algxize.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>随心记录日常</subtitle>
     <logo>https://algxize.github.io/images/avatar.png</logo>
     <icon>https://algxize.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, AlgXize</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://algxize.github.io/post/hello-gridea/</id>
