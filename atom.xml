@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://algxize.github.io</id>
+    <id>https://algxize.com</id>
     <title>AlgXize</title>
-    <updated>2020-08-26T17:47:58.948Z</updated>
+    <updated>2020-08-27T09:39:20.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://algxize.github.io"/>
-    <link rel="self" href="https://algxize.github.io/atom.xml"/>
+    <link rel="alternate" href="https://algxize.com"/>
+    <link rel="self" href="https://algxize.com/atom.xml"/>
     <subtitle>随心记录日常</subtitle>
-    <logo>https://algxize.github.io/images/avatar.png</logo>
-    <icon>https://algxize.github.io/favicon.ico</icon>
+    <logo>https://algxize.com/images/avatar.png</logo>
+    <icon>https://algxize.com/favicon.ico</icon>
     <rights>All rights reserved 2020, AlgXize</rights>
     <entry>
         <title type="html"><![CDATA[芜湖，个人博客建好啦！]]></title>
-        <id>https://algxize.github.io/post/wu-hu-ge-ren-bo-ke-jian-hao-la/</id>
-        <link href="https://algxize.github.io/post/wu-hu-ge-ren-bo-ke-jian-hao-la/">
+        <id>https://algxize.com/post/wu-hu-ge-ren-bo-ke-jian-hao-la/</id>
+        <link href="https://algxize.com/post/wu-hu-ge-ren-bo-ke-jian-hao-la/">
         </link>
         <updated>2020-08-26T13:12:12.000Z</updated>
         <summary type="html"><![CDATA[<p>本是一年前的计划。鸽了一年，今天花费了半天时间把网站建出来啦，欢呼！</p>
@@ -21,7 +21,7 @@
         <content type="html"><![CDATA[<p>本是一年前的计划。鸽了一年，今天花费了半天时间把网站建出来啦，欢呼！</p>
 <!-- more -->
 <p>不过因为此网站是基于github建造的（服务器在M国），裸连有时会被屏蔽<br>
-<img src="https://algxize.github.io/post-images/1598448419059.png" alt="" loading="lazy"><br>
+<img src="https://algxize.com/post-images/1598448419059.png" alt="" loading="lazy"><br>
 除了使用vpn外，还可以在hosts里添加<br>
 185.199.108.153 algxize.github.io<br>
 185.199.110.153 algxize.github.io<br>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://algxize.github.io/post/hello-gridea/</id>
-        <link href="https://algxize.github.io/post/hello-gridea/">
+        <id>https://algxize.com/post/hello-gridea/</id>
+        <link href="https://algxize.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
