@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://algxize.com</id>
     <title>AlgXize</title>
-    <updated>2020-08-27T11:18:18.788Z</updated>
+    <updated>2020-08-27T11:32:45.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://algxize.com"/>
     <link rel="self" href="https://algxize.com/atom.xml"/>
@@ -34,7 +34,7 @@
 以为需要单独买域名......</p>
 <!-- more -->
 <p>于是在腾讯云上注册并实名了一个 .com的一级域名<br>
-<img src="https://algxize.com/post-images/1598527060581.png" alt="" loading="lazy"><br>
+<img src="https://algxize.com/post-images/1598527426424.png" alt="" loading="lazy"><br>
 并修改了DNS，使域名指向 zeit<br>
 <img src="https://algxize.com/post-images/1598524338393.png" alt="" loading="lazy"><br>
 连接后就可以享受zeit提供的nameserver智能DNS了，<br>
@@ -43,9 +43,9 @@
 <img src="https://algxize.com/post-images/1598526502709.png" alt="" loading="lazy"></p>
 <!-- more -->
 <p>最后，<br>
-今天没做成的😫——<br>
+今天没做成的😫，留给下次的——<br>
 尝试将此网站加入百度站长，但没有成功...有空了再去试试吧。<br>
-网站备案要等域名新建2天后才能申请。</p>
+网站备案要等域名新建3天后才能申请。</p>
 ]]></content>
     </entry>
     <entry>
